@@ -1,5 +1,5 @@
 # image_processing_tasks
-Image Processin, Computer Vision and Advanced Video Processing Algorithms. Semesters 9 and 10
+Image Processing, Computer Vision and Advanced Video Processing Algorithms. Semesters 9 and 10
 
 This is a collection of Image Processing and Computer Vision tasks and mini-projects that tackle different areas and algorithms. 
 
